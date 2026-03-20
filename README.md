@@ -1,11 +1,7 @@
 # Hi there, I'm Saugat Mainali 👋
 
-💻 Software Developer  
-📊 Aspiring Data Analyst  
-🌱 Currently learning: Python, SQL, Machine Learning  
-📍 Based in: Missouri, USA
  
-# Hi there, I'm [Your Name] 👋
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
